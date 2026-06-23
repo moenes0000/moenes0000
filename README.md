@@ -4,16 +4,16 @@
 
 ---
 
-## 🧑 About Me
+## About Me
 
-- 🎓 Studying **Software Engineering** at ENICarthage
-- - 💻 Passionate about **C++**, **Java**, and building real-world projects
-  - - 🚀 Currently learning full-stack development and exploring AI
-    - - 🏆 Always looking to improve and take on new challenges
+- Studying **Software Engineering** at ENICarthage
+- - Passionate about **C++**, **Java**, and building real-world projects
+  - - Currently learning full-stack development and exploring AI
+    - - Always looking to improve and take on new challenges
      
       - ---
 
-      ## 🛠️ Tech Stack
+      ## Tech Stack
 
       **Languages:**
       ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -28,7 +28,7 @@
 
       ---
 
-      ## 📂 Featured Projects
+      ## Featured Projects
 
       | Project | Description | Tech |
       |---------|-------------|------|
@@ -38,14 +38,14 @@
 
       ---
 
-      ## 📊 GitHub Stats
+      ## GitHub Stats
 
       ![Moenes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenes0000&show_icons=true&theme=dark&hide_border=true)
       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenes0000&layout=compact&theme=dark&hide_border=true)
 
       ---
 
-      ## 📫 Connect with Me
+      ## Connect with Me
 
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moenes)
       [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moenes@example.com)
