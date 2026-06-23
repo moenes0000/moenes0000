@@ -1,6 +1,6 @@
 # Moenes Gasmi
 
-Software engineering student at ENICarthage, based in Tunis. I work on backend systems, mobile apps, and the occasional creative project — I also co-founded an educational platform for Arabic-speaking students in Canada.
+Software engineering student at ENICarthage, based in Tunis. I work on backend systems, mobile apps, and the occasional creative project  I also co-founded an educational platform for Arabic-speaking students in Canada.
 
 I like building things that actually work, and I tend to get interested in whatever problem is in front of me, whether that's a REST API, a real-time auction server, or a web interface.
 
