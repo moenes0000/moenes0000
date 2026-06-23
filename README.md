@@ -1,51 +1,84 @@
-# Hi, I'm Moenes 👋
+# Moenes Gasmi
 
-**Software Engineering Student | C++ & Java Developer | AI Enthusiast**
+Software engineering student at ENICarthage, based in Tunis. I work on backend systems, mobile apps, and the occasional creative project — I also co-founded an educational platform for Arabic-speaking students in Canada.
+
+I like building things that actually work, and I tend to get interested in whatever problem is in front of me, whether that's a REST API, a real-time auction server, or a web interface.
 
 ---
 
-## About Me
+### What I work with
 
-- Studying **Software Engineering** at ENICarthage
-- - Passionate about **C++**, **Java**, and building real-world projects
-  - - Currently learning full-stack development and exploring AI
-    - - Always looking to improve and take on new challenges
-     
-      - ---
+**Backend & Systems**
+Java · Spring Boot · C · C++
 
-      ## Tech Stack
+**Frontend**
+JavaScript · HTML · CSS
 
-      **Languages:**
-      ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-      ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-      ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Mobile**
+Android Studio
 
-      **Tools & Platforms:**
-      ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Database**
+MySQL
 
-      ---
+**AI / Data**
+Python · Machine Learning basics
 
-      ## Featured Projects
+**Tools**
+Git · GitHub
 
-      | Project | Description | Tech |
-      |---------|-------------|------|
-      | [EniMatch](https://github.com/moenes0000/EniMatch) | Matching platform for students | Java |
-      | [gestion-des-jouets](https://github.com/moenes0000/gestion-des-jouets) | Toy store management system | C++ |
-      | [magasindejouets](https://github.com/moenes0000/magasindejouets) | Store inventory management | C++ |
+**Design & Media**
+Photoshop · Illustrator · Premiere Pro · After Effects
 
-      ---
+---
 
-      ## GitHub Stats
+### Projects
 
-      ![Moenes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenes0000&show_icons=true&theme=dark&hide_border=true)
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenes0000&layout=compact&theme=dark&hide_border=true)
+**EniMatch** — Backend with Spring Boot  
+Academic networking and carpooling platform for students. Built the full backend: REST APIs, authentication, MySQL database design.
 
-      ---
+**Online Auction System** — C / Sockets / Multithreading  
+Real-time auction server handling concurrent bids using threads, mutexes, and socket programming.
 
-      ## Connect with Me
+**Delivery Management App** — Android Studio  
+Mobile app coordinating deliveries between dispatchers and couriers, with real-time tracking.
 
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moenes)
-      [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moenes@example.com)
+**Animal Grooming Platform** — C++  
+Management system for a grooming service — client records, scheduling, appointments.
+
+**Online Course Manager** — Java / JavaFX  
+Desktop app for managing courses, enrollments, and student progress.
+
+---
+
+### Experience
+
+**Co-Founder — RoutiNet** *(Aug 2025 – present)*  
+Digital educational platform built for Arabic-speaking students in Canada. Handling both the platform side and content/communication strategy.
+
+**Intern — Web Development & Design at Kashf Media** *(July 2025)*  
+Built web pages, added animations and dynamic components, worked on UI improvements.
+
+---
+
+### Languages
+
+Arabic (native) · French (B2) · English (B2) · German (A2)
+
+---
+
+### Certifications
+
+- Cisco CCNA 1 & 2 — 2025/2026
+- - Youth Freedom Award — Jaridaty, 2021
+  - - Bachira Ben Mrad Award — Friedrich Naumann Foundation, 2020
+   
+    - ---
+
+    ### Stats
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenes0000&show_icons=true&theme=dark&hide_border=true&count_private=true)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenes0000&layout=compact&theme=dark&hide_border=true)
+
+    ---
+
+    moenisgasmi2016@gmail.com · [LinkedIn](https://www.linkedin.com/in/moenes-gasmi)
