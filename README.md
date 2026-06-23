@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑 About Me
 
 - 🎓 Studying **Software Engineering** at ENICarthage
 - - 💻 Passionate about **C++**, **Java**, and building real-world projects
