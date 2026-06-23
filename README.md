@@ -8,26 +8,19 @@ I like building things that actually work, and I tend to get interested in whate
 
 ### What I work with
 
-**Backend & Systems**
-Java · Spring Boot · C · C++
+**Backend & Systems** — Java, Spring Boot, C, C++
 
-**Frontend**
-JavaScript · HTML · CSS
+**Frontend** — JavaScript, HTML, CSS
 
-**Mobile**
-Android Studio
+**Mobile** — Android Studio
 
-**Database**
-MySQL
+**Database** — MySQL
 
-**AI / Data**
-Python · Machine Learning basics
+**AI / Data** — Python, Machine Learning basics
 
-**Tools**
-Git · GitHub
+**Tools** — Git, GitHub
 
-**Design & Media**
-Photoshop · Illustrator · Premiere Pro · After Effects
+**Design & Media** — Photoshop, Illustrator, Premiere Pro, After Effects
 
 ---
 
@@ -62,23 +55,25 @@ Built web pages, added animations and dynamic components, worked on UI improveme
 
 ### Languages
 
-Arabic (native) · French (B2) · English (B2) · German (A2)
+Arabic (native) — French (B2) — English (B2) — German (A2)
 
 ---
 
-### Certifications
+### Certifications & Awards
 
-- Cisco CCNA 1 & 2 — 2025/2026
-- - Youth Freedom Award — Jaridaty, 2021
-  - - Bachira Ben Mrad Award — Friedrich Naumann Foundation, 2020
-   
-    - ---
+Cisco CCNA 1 & 2 — 2025/2026
 
-    ### Stats
+Youth Freedom Award — Jaridaty, 2021
 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenes0000&show_icons=true&theme=dark&hide_border=true&count_private=true)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenes0000&layout=compact&theme=dark&hide_border=true)
+Bachira Ben Mrad Award — Friedrich Naumann Foundation, 2020
 
-    ---
+---
 
-    moenisgasmi2016@gmail.com · [LinkedIn](https://www.linkedin.com/in/moenes-gasmi)
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moenes0000&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moenes0000&layout=compact&theme=dark&hide_border=true)
+
+---
+
+moenisgasmi2016@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/moenes-gasmi)
